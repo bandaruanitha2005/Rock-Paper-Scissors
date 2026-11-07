@@ -1,0 +1,35 @@
+body{
+            background-color: rgb(25, 25, 25); 
+            color: white;
+            font-family: Arial;
+        }
+        .move-img{
+        height:50px;
+    }
+    .name{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .move-btn{
+        background-color: transparent;
+        border: 2px solid white;
+        border-radius: 50%;
+        width: 90px;
+        height: 90px;
+    }
+    .result{
+        font-size: 25px;
+        font-weight: 600;
+    }
+    .moves{
+        font-size: 15px;
+
+    }
+    .score{
+        font-size: 17px;
+        margin-top: 50px;
+    }
+        .rest-score-btn{
+        padding: 10px 15px;
+        font-size: 15px;
+    }
